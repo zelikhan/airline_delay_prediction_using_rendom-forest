@@ -6,6 +6,7 @@
 ![image](https://github.com/zelikhan/airline_delay_prediction_using_rendom-forest/assets/114800813/e237bd2c-0999-4ec2-a6f7-749de9a3d43d)
 ![image](https://github.com/zelikhan/airline_delay_prediction_using_rendom-forest/assets/114800813/0e77de78-6caa-46ef-8fb1-9ab7266a3ea6)
 ![image](https://github.com/zelikhan/airline_delay_prediction_using_rendom-forest/assets/114800813/cd65c53c-8bbd-4904-b544-ca611e8e42a8)
+
 ![image](https://github.com/zelikhan/airline_delay_prediction_using_rendom-forest/assets/114800813/78cb3144-2a4a-4b41-a816-caf687c1fbeb)
 ![image](https://github.com/zelikhan/airline_delay_prediction_using_rendom-forest/assets/114800813/4489b12a-cf6e-4ea4-bbc1-58b401da7bb5)
 
